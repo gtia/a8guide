@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{come:0,index:0,modul:0,more:0,page:0,search:0,soon:0,stuff:0},titles:["Welcome to The Ultimate Atari 8-bit Computer Guide\u2019s documentation!"],titleterms:{The:0,atari:0,bit:0,comput:0,document:0,guid:0,indic:0,tabl:0,ultim:0,welcom:0}})
