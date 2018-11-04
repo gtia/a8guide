@@ -1,0 +1,4 @@
+.rst-content .document p { margin-bottom: 15px; }
+.wy-nav-content {
+    max-width: 800px !important;
+}
