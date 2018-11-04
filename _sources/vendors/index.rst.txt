@@ -1,0 +1,10 @@
+Vendors
+=======
+
+This is an alphabetical list of vendors that currently support the Atari 8-Bit computers. Inclusion in the list should not be seen as an endorsement of any guide.
+
+* `8-bit Classics <https://www.8bitclassics.com>`_
+* `Best Electronics <http://www.best-electronics-ca.com>`_
+* `Bits of the Past <https://www.bitsofthepast.com>`_
+* `Eight Bit Fix <https://www.eightbitfix.com>`_
+

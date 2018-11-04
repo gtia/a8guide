@@ -6,9 +6,56 @@
 Welcome to The Ultimate Atari 8-bit Computer Guide's documentation!
 ===================================================================
 
+.. note:: This is currently a work in progress and should not be viewed by anyone.
+
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: General:
+   :name: sec-general
+
+   about/index
+   hardware/computers/index
+   about/definitions
+   about/faq
+
+.. toctree::
+   :maxdepth: 1
+   :caption: How to:
+   :name: sec-howto
+
+   howtos/playcarts
+
+ .. toctree::
+   :maxdepth: 1
+   :caption: Computers:
+   :name: sec-computers
+
+   hardware/computers/a400
+  
+.. toctree::
+   :maxdepth: 1
+   :caption: Hardware:
+
+   hardware/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Software:
+
+   software/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Emulation:
+
+   emulation/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Vendors:
+
+   vendors/index
 
 More stuff coming soon!
 

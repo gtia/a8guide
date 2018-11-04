@@ -1,0 +1,12 @@
+Which 8-bit Atari model should I buy?
+=====================================
+
+Although all of the models are fairly comparable, there is one difference that affects the software you can run, the amount of RAM available. 
+
+The 400 and 600XL both come stock with 16K of RAM which makes them incompatible with quite a bit of software. The 600XL can easily be upgraded to 64K, which fixes the memory issue but the 600XL has another problem, at least in the US. Atari did not put a monitor jack on the 600XL model, limiting you to RF output only. European models do not have this issue. One bright spot for the 600XL is that all of the chips will be in sockets on the motherboard.
+
+The Atari 800 is an awesome machine and most of the 800s that you will see for sale do come with 48K. But, there is quite a bit of software that want 64K which will not run on the 800.
+
+That leaves us with the 800XL, 65XE, 130XE, and the XEGS. Any of these machines will be the most compatible with software. The 800XL is probably the easiest to find for purchase, and is of higher quality than the later XE systems.
+
+

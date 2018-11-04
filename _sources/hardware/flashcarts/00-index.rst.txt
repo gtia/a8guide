@@ -1,0 +1,7 @@
+Flash carts
+===========
+
+.. csv-table:: Cart Comparison
+   :file: cartstable.csv
+   :header-rows: 1
+
